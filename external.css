@@ -1,0 +1,78 @@
+h1{
+    color: white;
+    
+}
+p{
+    background:#DFC2DA;
+    color: black;
+    padding: 50px;
+    margin: 100px;
+    border: dotted;
+    font-size: 30;
+}
+body{
+    background:black;
+    color: white;
+    
+}
+
+select{
+    background-color: white;
+    color: green;
+    
+}
+
+ a{
+    color:orange;
+    text-decoration: none;
+}
+a:hover{
+    color:greenyellow;
+}
+a:visited{
+    color:skyblue;
+}
+.f1{
+    padding-left: 50px;
+    border: 2px yellow dotted;
+    border-radius:  15px;
+    background-color: grey;
+    margin: 100px;
+}
+.f1 h1{
+    text-transform:uppercase ;
+    color:black;
+}
+.f1 label{
+    color: black;
+  display: block;
+  padding-bottom:10px;  
+}
+.f1 input[type="text"]{
+    padding: 10px;
+    width:70%;
+}
+.f1 textarea{
+    padding: 10px;
+    width:70%;
+}
+.b h1{
+ 
+    text-transform: uppercase;
+
+}
+.button{
+    margin: 100px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.button:hover{
+
+    background-color: black;
+    color:yellow;
+    border:2px yellow dotted;
+}
+table{
+    border:2px yellow dotted;
+    padding: 1%;
+}
